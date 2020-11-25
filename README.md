@@ -6,6 +6,8 @@
 
 Este proyecto ha sido creado por **Alba Guzman**.
 
+[Ir al preview](https://fylo-challenge-beta.vercel.app/) del proyecto con Vercel.
+
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges allow you to improve your skills in a real-life workflow.
